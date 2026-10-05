@@ -1,0 +1,20 @@
+[Unit]
+Description=Dynamic Profits bounded testing-account execution controller
+Wants=network-online.target
+After=network-online.target
+ConditionPathExists=/home/ssm-user/.config/dynamic-profits/testing.json
+
+[Service]
+Type=simple
+User=ssm-user
+WorkingDirectory=/home/ssm-user/dynamic-profits-roostoo
+ExecStart=/usr/bin/python3 -u /home/ssm-user/dynamic-profits-roostoo/test_controller.py --execute-testing --watch
+Restart=on-failure
+RestartSec=60
+RestartPreventExitStatus=78
+UMask=0077
+NoNewPrivileges=true
+TimeoutStopSec=60
+
+[Install]
+WantedBy=multi-user.target
