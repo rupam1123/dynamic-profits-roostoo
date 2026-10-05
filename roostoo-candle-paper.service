@@ -1,0 +1,17 @@
+[Unit]
+Description=Dynamic Profits candle-seeded forward paper test
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=simple
+User=ssm-user
+WorkingDirectory=/home/ssm-user/dynamic-profits-roostoo
+ExecStart=/usr/bin/python3 -u /home/ssm-user/dynamic-profits-roostoo/candle_paper.py --watch
+Restart=on-failure
+RestartSec=30
+UMask=0077
+NoNewPrivileges=true
+
+[Install]
+WantedBy=multi-user.target
