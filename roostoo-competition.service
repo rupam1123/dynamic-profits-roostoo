@@ -1,0 +1,20 @@
+[Unit]
+Description=Dynamic Profits autonomous competition bot
+Wants=network-online.target
+After=network-online.target
+ConditionPathExists=/home/ssm-user/.config/dynamic-profits/competition.json
+
+[Service]
+Type=simple
+User=ssm-user
+WorkingDirectory=/home/ssm-user/dynamic-profits-roostoo
+ExecStart=/usr/bin/python3 -u -m competition_bot.controller --execute-competition --watch
+Restart=on-failure
+RestartSec=60
+RestartPreventExitStatus=78
+UMask=0077
+NoNewPrivileges=true
+TimeoutStopSec=60
+
+[Install]
+WantedBy=multi-user.target
