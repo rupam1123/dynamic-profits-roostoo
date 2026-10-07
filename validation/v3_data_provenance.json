@@ -1,0 +1,1514 @@
+[
+  {
+    "asset": "BTC",
+    "year": 2025,
+    "month": 5,
+    "sha256": "da6213bf4c57ea60faed3ef1f6a0ecb87f22ca7a3a67614604cf44d2d6b265fe"
+  },
+  {
+    "asset": "BTC",
+    "year": 2025,
+    "month": 3,
+    "sha256": "b5ae8bb57e5e526c2050c9f8229b723871a5af47d80c53453abf61847a5f3aa6"
+  },
+  {
+    "asset": "BTC",
+    "year": 2025,
+    "month": 2,
+    "sha256": "7420f55c93f61d7e734fc9d2507c7f2fcb5eaf48112277cecd241d4e1dbf3bd5"
+  },
+  {
+    "asset": "BTC",
+    "year": 2025,
+    "month": 1,
+    "sha256": "e7f2aaa5396a8062a57ab29ce9fab2d76b2c84ec58815d4ab7b3fe16f78c7118"
+  },
+  {
+    "asset": "BTC",
+    "year": 2025,
+    "month": 4,
+    "sha256": "bbec48ed5f7b603bbceff943ad0dccd3c29cae6d14161bcd2eabc9f762ff0a35"
+  },
+  {
+    "asset": "BTC",
+    "year": 2025,
+    "month": 6,
+    "sha256": "d0760943538f48032dd066401e53f46bbf4868e6545929678e23bcdee032a5e8"
+  },
+  {
+    "asset": "BTC",
+    "year": 2025,
+    "month": 9,
+    "sha256": "b0ad5b54097f6adb440d07204fd215dae9b224fb73569fd4309a55c9234d46b3"
+  },
+  {
+    "asset": "BTC",
+    "year": 2025,
+    "month": 8,
+    "sha256": "a99ec5bac64333fb521b2ab1bac5e8387eede6413cc7841656a02be95613c64f"
+  },
+  {
+    "asset": "BTC",
+    "year": 2025,
+    "month": 12,
+    "sha256": "d546c6e44b443e34cef5122043c5cdd3b9c76980e23cc408dafd9f6f76d65c05"
+  },
+  {
+    "asset": "BTC",
+    "year": 2025,
+    "month": 7,
+    "sha256": "487738ee596380eaad32a2a93c75d17e1ebdd165a9b544c0e44be36079f5c02e"
+  },
+  {
+    "asset": "BTC",
+    "year": 2025,
+    "month": 11,
+    "sha256": "1f28f02e33e1f19e5163cd45b67c07b3b75870e78dbbf9f861d1348ca372d942"
+  },
+  {
+    "asset": "BTC",
+    "year": 2025,
+    "month": 10,
+    "sha256": "5426b1b48905963d50e11d1243910b5fa05a89c9a2003bcd5082561d352a2123"
+  },
+  {
+    "asset": "BTC",
+    "year": 2026,
+    "month": 3,
+    "sha256": "44f383f9423f96cdc29e03b4ba8062296763dd740ab1d93f04b62c88bac30aa6"
+  },
+  {
+    "asset": "BTC",
+    "year": 2026,
+    "month": 1,
+    "sha256": "a40e86beb4f1e6d4b19ca022c87b8b2f0e4e40874d349a5a75b27baa9634c858"
+  },
+  {
+    "asset": "BTC",
+    "year": 2026,
+    "month": 5,
+    "sha256": "11b8537dc1769a7de9d6cb2e0354dd4a376018986a826c67d1078e25fbf8fb80"
+  },
+  {
+    "asset": "BTC",
+    "year": 2026,
+    "month": 4,
+    "sha256": "9f8e49b70978177414a005a6e84b1cf891f97b0196526cbd579535449c14b6f6"
+  },
+  {
+    "asset": "BTC",
+    "year": 2026,
+    "month": 2,
+    "sha256": "0be4e5c92892495c5da5b371fe8755f2d508b28a58414b4171284480806ed6c4"
+  },
+  {
+    "asset": "BTC",
+    "year": 2026,
+    "month": 6,
+    "sha256": "7c446aee297f382ee92b8d9b3300a1d7c21bed8166118f3bb261275bed5e308e"
+  },
+  {
+    "asset": "ETH",
+    "year": 2025,
+    "month": 1,
+    "sha256": "f7350a6f3b51de466a0db52ba890cf296d4faeb6e84811b9606f87ad39ccf3ec"
+  },
+  {
+    "asset": "BTC",
+    "year": 2026,
+    "month": 7,
+    "sha256": "ec98553c10acdbf3f210c55045614e8d3daf616e407c36718269361b1e972b16"
+  },
+  {
+    "asset": "BTC",
+    "year": 2026,
+    "month": 9,
+    "sha256": "39b31046d702bd7e482e03b125d6fbfd730147aa5d9ad03d8b04bf1961a8e9bd"
+  },
+  {
+    "asset": "ETH",
+    "year": 2025,
+    "month": 3,
+    "sha256": "dc32ecad498d19f8663633196ec84cbd480595c89aa1ae6062c0fa0b8d9bd11d"
+  },
+  {
+    "asset": "ETH",
+    "year": 2025,
+    "month": 2,
+    "sha256": "40c2f73850422d47ca7d044959cecc39ff3416f6e3c88f30636da4a01a0b6e31"
+  },
+  {
+    "asset": "BTC",
+    "year": 2026,
+    "month": 8,
+    "sha256": "1fa85817e358f73e0dd9509f6f31c79bf9b23d9470971a882c8f814871a3fccf"
+  },
+  {
+    "asset": "ETH",
+    "year": 2025,
+    "month": 7,
+    "sha256": "d5c4c2482004a49b479ff5bfbdb885b25035ace24e5f95edd8057507718df366"
+  },
+  {
+    "asset": "ETH",
+    "year": 2025,
+    "month": 9,
+    "sha256": "f83ffff284b408574a4571e83fabc5c641e20edc71818912541cc38ec7e1be43"
+  },
+  {
+    "asset": "ETH",
+    "year": 2025,
+    "month": 8,
+    "sha256": "1ebdd24f8e1df5369518b721fdb0bfaaca9892ae71499b82783194573f804cad"
+  },
+  {
+    "asset": "ETH",
+    "year": 2025,
+    "month": 5,
+    "sha256": "720a319face496acff79d8e6279b9b03f31495097d555c74daa076cd66421bee"
+  },
+  {
+    "asset": "ETH",
+    "year": 2025,
+    "month": 6,
+    "sha256": "780788805b48a094886590d939ef45372db2ee053aa5d464f8e135121df2b8eb"
+  },
+  {
+    "asset": "ETH",
+    "year": 2025,
+    "month": 4,
+    "sha256": "73f39799fae1ba4ef291c6785b934a6c817426ef8ef60e1bdf42078efd27893d"
+  },
+  {
+    "asset": "ETH",
+    "year": 2026,
+    "month": 2,
+    "sha256": "8c8c6e664688497711832add90349b8617caf7e8892f085e97fe4290989fe78b"
+  },
+  {
+    "asset": "ETH",
+    "year": 2025,
+    "month": 12,
+    "sha256": "7a7a35ce7b9be9bafa0a00c47370acc57a48329a3289c21cb19f1185f6430fdb"
+  },
+  {
+    "asset": "ETH",
+    "year": 2025,
+    "month": 10,
+    "sha256": "f3668059619d772ae8f7167d82666dcc6e2f88f17e6fd66a4a8098c9cd8ba042"
+  },
+  {
+    "asset": "ETH",
+    "year": 2026,
+    "month": 1,
+    "sha256": "eb060da7fb1adc65c7999f7d1f4f3b004edf2335311bb32d05a86f9577c21106"
+  },
+  {
+    "asset": "ETH",
+    "year": 2026,
+    "month": 3,
+    "sha256": "0bf4dc37f2b201a8891f63dd76164742ed7d4fa24c24065a2e7709f34488ff74"
+  },
+  {
+    "asset": "ETH",
+    "year": 2025,
+    "month": 11,
+    "sha256": "3c0171cdd5eef1ece36c818ace3a07cc48e331cb9d991488a8db917bc496b78d"
+  },
+  {
+    "asset": "ETH",
+    "year": 2026,
+    "month": 7,
+    "sha256": "5e8c974c008689943b473ccc5890707d0c2cd0b7e71bdb28c0ad65a87abde338"
+  },
+  {
+    "asset": "ETH",
+    "year": 2026,
+    "month": 5,
+    "sha256": "8c4cef22ad7046183621f1a41155e91301780a3c9f377d7770763027b08e2462"
+  },
+  {
+    "asset": "ETH",
+    "year": 2026,
+    "month": 8,
+    "sha256": "ebac99df5b1d9c84c56ea8f7a86daf09bcb43f8fdbded0049fec5205ab977dcc"
+  },
+  {
+    "asset": "ETH",
+    "year": 2026,
+    "month": 4,
+    "sha256": "46d62ed100717d8195bce4c07a41dc7606f41abc491ca71f9bfe653d2b92bfc0"
+  },
+  {
+    "asset": "ETH",
+    "year": 2026,
+    "month": 6,
+    "sha256": "e24954ab4ada9dc5f6bbf9ac30275d459a5729fb522f045f627296b4ad7ee985"
+  },
+  {
+    "asset": "ETH",
+    "year": 2026,
+    "month": 9,
+    "sha256": "04a3deb832f99c5f4e961c28baa4c6856b1f1cc5a7d887068aafeed6a717f4ac"
+  },
+  {
+    "asset": "SOL",
+    "year": 2025,
+    "month": 2,
+    "sha256": "8b7af1c42f8d8ac9bff2b2c8bc8a098150364947d93b363df0ab51e280aea544"
+  },
+  {
+    "asset": "SOL",
+    "year": 2025,
+    "month": 6,
+    "sha256": "082af5c4634055a860eb765f2b0549344ae6dfd9274eaa09b06859eb7125ad0f"
+  },
+  {
+    "asset": "SOL",
+    "year": 2025,
+    "month": 4,
+    "sha256": "6f5a34a5482fa8abddfa2205df55605993b4c458315f613567eadfbd2062a0c3"
+  },
+  {
+    "asset": "SOL",
+    "year": 2025,
+    "month": 3,
+    "sha256": "7ddd11cb34dca5c6815cce34107d1bfc4a492c65b5f1def1d80419b04cb4b838"
+  },
+  {
+    "asset": "SOL",
+    "year": 2025,
+    "month": 5,
+    "sha256": "cb07bdbbed3f21db679ea6944805a4282f121440abf0415905fe4fdc05f480f2"
+  },
+  {
+    "asset": "SOL",
+    "year": 2025,
+    "month": 1,
+    "sha256": "8a40f8d5eb6e28b0c57c830ccb76e49046c1bdc631ec840e32576808f62ad466"
+  },
+  {
+    "asset": "SOL",
+    "year": 2025,
+    "month": 9,
+    "sha256": "87ad6a05fe9d7fa90d4abd08cc3e6806759e9f3dcab69869fa3566d43bc876da"
+  },
+  {
+    "asset": "SOL",
+    "year": 2025,
+    "month": 7,
+    "sha256": "c2e17bfe68c0ae9ac8c12162c7a64534d91f56a9f9ec0560f300fa6414fc8f19"
+  },
+  {
+    "asset": "SOL",
+    "year": 2025,
+    "month": 8,
+    "sha256": "7ea49f6b1196a1c26473433850dfe139b775380cc4cdf03bf853fb553ee6c4e0"
+  },
+  {
+    "asset": "SOL",
+    "year": 2025,
+    "month": 12,
+    "sha256": "d8259dd2f6758b7cd4166564bf8aa7219d6aa140ecf68a3667749da41d4c2560"
+  },
+  {
+    "asset": "SOL",
+    "year": 2025,
+    "month": 11,
+    "sha256": "311effa24632be0dfc523980554d876d5516e6acd6c08c7aa7daa3000ba393b9"
+  },
+  {
+    "asset": "SOL",
+    "year": 2025,
+    "month": 10,
+    "sha256": "3cbcc4ed883fe75c9b095cb5981c810b39196b015940bff7cdd7fb6d68cb0865"
+  },
+  {
+    "asset": "SOL",
+    "year": 2026,
+    "month": 6,
+    "sha256": "feb36f4d0a5bb0c13596b57d9477f60e7331cec8762b23102cb5ea188eddcdaf"
+  },
+  {
+    "asset": "SOL",
+    "year": 2026,
+    "month": 2,
+    "sha256": "5e219b1a7d7384327e40b27b8accb7f1ae797f3c6ee628441de3035bc1fa3964"
+  },
+  {
+    "asset": "SOL",
+    "year": 2026,
+    "month": 1,
+    "sha256": "949d8838cf48d6bd348762534e6307601574f82d58126dc26f0d91740622c27c"
+  },
+  {
+    "asset": "SOL",
+    "year": 2026,
+    "month": 5,
+    "sha256": "bc33dc72343c662cb0614d4afe2ce7030ec7a4648d7c9a2dd1e99477e0001101"
+  },
+  {
+    "asset": "SOL",
+    "year": 2026,
+    "month": 3,
+    "sha256": "5bfab930f6e73e8a486ad1281de8df114d2c6a71cc08f7a449e6c6697af369b6"
+  },
+  {
+    "asset": "SOL",
+    "year": 2026,
+    "month": 4,
+    "sha256": "7266fae3d30b6b693bb731e7d392cdf132066b2e71a86b1695b0ab0c8a6b8507"
+  },
+  {
+    "asset": "BNB",
+    "year": 2025,
+    "month": 1,
+    "sha256": "c2df916221d659c4ea89daff3b7c2f14aa44e48e8163191580b8579664621ab0"
+  },
+  {
+    "asset": "BNB",
+    "year": 2025,
+    "month": 2,
+    "sha256": "75effe494d7a7d29b020f73c5acb23c0a2f8731df29d95837c489c359de62db1"
+  },
+  {
+    "asset": "SOL",
+    "year": 2026,
+    "month": 7,
+    "sha256": "62abffc3fdbf438465dc44432d16a1806e6c140ab3e1824ffceb908d831f67e2"
+  },
+  {
+    "asset": "SOL",
+    "year": 2026,
+    "month": 8,
+    "sha256": "fcec8b92044eb5a2cdcbfb038afce21bb8e02a06b18b1eaffc4ef88bacb1185e"
+  },
+  {
+    "asset": "SOL",
+    "year": 2026,
+    "month": 9,
+    "sha256": "3253ecc95e95ccac49036d4efb297e40906df5e1516f91b5288121e20457e343"
+  },
+  {
+    "asset": "BNB",
+    "year": 2025,
+    "month": 3,
+    "sha256": "74161c8cd3e6869d3d42a321af8590002f7666e0507220eff513a3c84751dc6d"
+  },
+  {
+    "asset": "BNB",
+    "year": 2025,
+    "month": 8,
+    "sha256": "74939c2d6afa29f927ceb4a0adacc873ba975e0f37ecd2b05c5a3f4c45673a6b"
+  },
+  {
+    "asset": "BNB",
+    "year": 2025,
+    "month": 9,
+    "sha256": "edb2ba0c725e932b6adb162a38470b29a0f3888a216a4663851de202b2c7937b"
+  },
+  {
+    "asset": "BNB",
+    "year": 2025,
+    "month": 4,
+    "sha256": "e93a57bbaddfe264cc0b697aa52486ebdf8901195d7363eefa2f0208ad7b7e45"
+  },
+  {
+    "asset": "BNB",
+    "year": 2025,
+    "month": 5,
+    "sha256": "0f77041a1e43581b7b67210e35432c997d33b2b450ff5586ee2aaaf1a7e1cceb"
+  },
+  {
+    "asset": "BNB",
+    "year": 2025,
+    "month": 7,
+    "sha256": "8541283a264382b0d8d3cec5c563e457dae00cf97c8c0b4d3cee1781825d0246"
+  },
+  {
+    "asset": "BNB",
+    "year": 2025,
+    "month": 6,
+    "sha256": "4738dcff9c08bdd71a98d81cb5caab2e31edde3e6e152a0d89689e41f2d3c110"
+  },
+  {
+    "asset": "BNB",
+    "year": 2026,
+    "month": 3,
+    "sha256": "b80b2124644a48ce2fbf90cd2cedadfdf79aa2de72ac14d0dcd7c487fe75196c"
+  },
+  {
+    "asset": "BNB",
+    "year": 2025,
+    "month": 10,
+    "sha256": "22b2595e7df28f89e12523fac0aaf14e742fbf7ab4ff8feb081201fe3f714edc"
+  },
+  {
+    "asset": "BNB",
+    "year": 2025,
+    "month": 12,
+    "sha256": "3d0d7dd68c548d3439ba773e1556a89911fff14af7aac9ed34d16090b85cad5e"
+  },
+  {
+    "asset": "BNB",
+    "year": 2026,
+    "month": 2,
+    "sha256": "819761ffd58e265f471c4edbe5ffd2e7abbeb747a85a6b2c0cb389f921850f29"
+  },
+  {
+    "asset": "BNB",
+    "year": 2025,
+    "month": 11,
+    "sha256": "34eebef4cf7743a1d44567b9857eddc020c3a96b4c9aac65702a4537df72ae76"
+  },
+  {
+    "asset": "BNB",
+    "year": 2026,
+    "month": 1,
+    "sha256": "c2524b2a5a48fa55cd6c8321118b7ad0de7ef83794344ccfd86d161e11b7c6a5"
+  },
+  {
+    "asset": "BNB",
+    "year": 2026,
+    "month": 6,
+    "sha256": "0c3b052bd921899ca8216f86cbd2830a8f20bc5725bcf49611486267fb704997"
+  },
+  {
+    "asset": "BNB",
+    "year": 2026,
+    "month": 8,
+    "sha256": "420f85b0f1440f209d4ac1aaecf1b0d91e165a18f4edea3de11695589d5578c7"
+  },
+  {
+    "asset": "BNB",
+    "year": 2026,
+    "month": 7,
+    "sha256": "7257a39b939fce6c29ba7f44ae42fbec4517d18dacc2b3d27c9c536881af7d10"
+  },
+  {
+    "asset": "BNB",
+    "year": 2026,
+    "month": 5,
+    "sha256": "74aac29cedf0fc0b94a1bb7bb1b8ba3aebfef827da0c21be181884789dcef9ae"
+  },
+  {
+    "asset": "BNB",
+    "year": 2026,
+    "month": 4,
+    "sha256": "4283e0a097dc65dbf0658744352086a46e0862023825f60d815da5ccd8f7f835"
+  },
+  {
+    "asset": "BNB",
+    "year": 2026,
+    "month": 9,
+    "sha256": "caccd0ca4bd8b63257f402381e3a869a358943fd17f98a13d0f00c88aab21050"
+  },
+  {
+    "asset": "XRP",
+    "year": 2025,
+    "month": 6,
+    "sha256": "45067e46f6dbd885b03d59fb797407391c41910cc570ad23b90aa719d12742f8"
+  },
+  {
+    "asset": "XRP",
+    "year": 2025,
+    "month": 2,
+    "sha256": "1a8f692561213eac27013427cf7df056822217467329fcf5bcd428525da86ee5"
+  },
+  {
+    "asset": "XRP",
+    "year": 2025,
+    "month": 3,
+    "sha256": "c70843debb833b68b05f8a73ca174d0e329e2d8ab34fc1b5e77c86d18e872202"
+  },
+  {
+    "asset": "XRP",
+    "year": 2025,
+    "month": 4,
+    "sha256": "72fecc94a24cebd0b7d04d03e72e10a64d441f9b0f729ee7fcb7a40bed866362"
+  },
+  {
+    "asset": "XRP",
+    "year": 2025,
+    "month": 1,
+    "sha256": "217109fad8b3a8681b6f860a0c5c461810c735b07a1153044310e86606be12ec"
+  },
+  {
+    "asset": "XRP",
+    "year": 2025,
+    "month": 5,
+    "sha256": "6d03555be628369abcc80946a41dfd485710364466871befc3084b05d4f2c1f5"
+  },
+  {
+    "asset": "XRP",
+    "year": 2025,
+    "month": 7,
+    "sha256": "9445599dbaad1ff2b1a102b18ec7a6a436b906f22f0ce2b32c2f7a8d1f3dd5ca"
+  },
+  {
+    "asset": "XRP",
+    "year": 2025,
+    "month": 11,
+    "sha256": "a411aedae1fb7140ab043885223a890a35b3887ffdba85f34437cf26b83937b3"
+  },
+  {
+    "asset": "XRP",
+    "year": 2025,
+    "month": 12,
+    "sha256": "c1f7afa290b1e8c4ef3bc84a3d992d779e636ad69ac700dd24a0847d2f704a49"
+  },
+  {
+    "asset": "XRP",
+    "year": 2025,
+    "month": 8,
+    "sha256": "b2f06ce11bb56fcbe97de82ee0f21be58f41811589612fc7e42d82bd7f695197"
+  },
+  {
+    "asset": "XRP",
+    "year": 2025,
+    "month": 9,
+    "sha256": "6e7cc11c407faa368c2215b8f5adad29afe6bb70c33c74aa5b23bf50dcfb9d20"
+  },
+  {
+    "asset": "XRP",
+    "year": 2025,
+    "month": 10,
+    "sha256": "4645b87ae8b4a3ab7c936b4ead2748e3ce9e3961208d4e40fbba897f63e39560"
+  },
+  {
+    "asset": "XRP",
+    "year": 2026,
+    "month": 1,
+    "sha256": "31af99c0ea11a3b6d7e062e7755ba3240ea1369d2fc1c0b30fcfe0ca7d68b1b8"
+  },
+  {
+    "asset": "XRP",
+    "year": 2026,
+    "month": 3,
+    "sha256": "fb697b2abd451ed92c624c457b021fdd38f589e84428ab25dca337d41617aa72"
+  },
+  {
+    "asset": "XRP",
+    "year": 2026,
+    "month": 6,
+    "sha256": "1a923423f6574df3a2cf51c2ef44847d7df6b5d1a5ca8857d5eef75692143a77"
+  },
+  {
+    "asset": "XRP",
+    "year": 2026,
+    "month": 2,
+    "sha256": "7fd13cd45c932ae481142213d4035df0ccce048a6dfb2e306c146746540ee2fd"
+  },
+  {
+    "asset": "XRP",
+    "year": 2026,
+    "month": 4,
+    "sha256": "a6e372008a5940aba04f5a8aa86b75163657180b276aca365f87c993c0930e32"
+  },
+  {
+    "asset": "XRP",
+    "year": 2026,
+    "month": 5,
+    "sha256": "03a0520e027df25a9aaba468d585799c30458fbfba7b0588f6f7b3cf7013312c"
+  },
+  {
+    "asset": "XRP",
+    "year": 2026,
+    "month": 8,
+    "sha256": "15a0e4239d81c22496a2a4845d32d76d4e657a3250ce9286d1fa757cda821c90"
+  },
+  {
+    "asset": "ADA",
+    "year": 2025,
+    "month": 3,
+    "sha256": "9d82d5bf0fc7da418992003eefb7851f29c57fd46b7b3014fe704991d28eb4bd"
+  },
+  {
+    "asset": "ADA",
+    "year": 2025,
+    "month": 1,
+    "sha256": "7ec3e614f4c5f069613df99191912536b8f2fe18ba3f1c0cf02c32aba926e830"
+  },
+  {
+    "asset": "XRP",
+    "year": 2026,
+    "month": 7,
+    "sha256": "7517ae48bfaa5db2f61682a24124b3e4e74f8c39803355a226ec4959086dd2fd"
+  },
+  {
+    "asset": "XRP",
+    "year": 2026,
+    "month": 9,
+    "sha256": "fa67d293f03a74d5bb8eb9bb13b0f0b966e254c1d114ed75281d8bd21d242acb"
+  },
+  {
+    "asset": "ADA",
+    "year": 2025,
+    "month": 2,
+    "sha256": "3a6e56b8ef7070846229e471dbedfc306af678f456aab63ac924006edcf9189d"
+  },
+  {
+    "asset": "ADA",
+    "year": 2025,
+    "month": 6,
+    "sha256": "a4b9024bc0cb87c5394c7decacedd2743a1d0e2296d883104c1acd86d817f017"
+  },
+  {
+    "asset": "ADA",
+    "year": 2025,
+    "month": 4,
+    "sha256": "d62987fad8ce33de23649f7254d6bdc7963b0633cd2a594ea2cc2474cc0177ac"
+  },
+  {
+    "asset": "ADA",
+    "year": 2025,
+    "month": 9,
+    "sha256": "fd58a8bca16afb11a619822864ca3832b4bdff41a40408ab01da3912a7e6578b"
+  },
+  {
+    "asset": "ADA",
+    "year": 2025,
+    "month": 7,
+    "sha256": "ea434286086281a07ac91224b0f75404dd4439b04478c907e90af8518b0e99c6"
+  },
+  {
+    "asset": "ADA",
+    "year": 2025,
+    "month": 8,
+    "sha256": "7b718b4a55a42d847367876eca41388ad092435810dc375b8696b2daf2d32530"
+  },
+  {
+    "asset": "ADA",
+    "year": 2025,
+    "month": 5,
+    "sha256": "d3b4a7230ad1ec15c21a7a806ea13fb678f60ac23f5ac45d7ec01044334df744"
+  },
+  {
+    "asset": "ADA",
+    "year": 2025,
+    "month": 11,
+    "sha256": "e827b00ed10a5a35c945234820b3dcb8ce3b1d710eb651ca419ac7f8c486906e"
+  },
+  {
+    "asset": "ADA",
+    "year": 2026,
+    "month": 3,
+    "sha256": "751f2375dbd1bcd5fd486f123671dc60a27b973e6b7bcb9679d19064169b2150"
+  },
+  {
+    "asset": "ADA",
+    "year": 2026,
+    "month": 2,
+    "sha256": "5dc5d7da0cf27142d09f92a239aac41f80c205f3a88302fde678cb86e5454958"
+  },
+  {
+    "asset": "ADA",
+    "year": 2026,
+    "month": 1,
+    "sha256": "1605475980a7465e0410c88b96931e8649adcd2f47b7cc331f4dd8caddd6ddd7"
+  },
+  {
+    "asset": "ADA",
+    "year": 2025,
+    "month": 12,
+    "sha256": "7474b87cc773a6b2cd25da7586e4d1ca7f8434a6ca873f8c7651fad636987b10"
+  },
+  {
+    "asset": "ADA",
+    "year": 2025,
+    "month": 10,
+    "sha256": "1655b172f7adfc09c817bcf782e4d829ee5bbc050ac0748b443fe6af86cf9efe"
+  },
+  {
+    "asset": "ADA",
+    "year": 2026,
+    "month": 6,
+    "sha256": "df7d11498cc5f592afb0be3a39bdb52c157e6c4efad2e9266201aa30f6cd78fe"
+  },
+  {
+    "asset": "ADA",
+    "year": 2026,
+    "month": 5,
+    "sha256": "ffeb6d3369a9686460028bb3b2f782ae619a8c2d18ecc0ddb49d0abbf707a56e"
+  },
+  {
+    "asset": "ADA",
+    "year": 2026,
+    "month": 8,
+    "sha256": "e4ce4fee516b2f6e0894883c5e0794492b01524880a4f8565bb45efc5d60d40a"
+  },
+  {
+    "asset": "ADA",
+    "year": 2026,
+    "month": 9,
+    "sha256": "717ad134bf0f9d1f5ee11bff797fa3f239b8b90fd643e37011188f46dfd28be6"
+  },
+  {
+    "asset": "ADA",
+    "year": 2026,
+    "month": 7,
+    "sha256": "72420ed25dab2d4f3b00b584209d9e243125c22f4213c670b2941767168f07a8"
+  },
+  {
+    "asset": "ADA",
+    "year": 2026,
+    "month": 4,
+    "sha256": "139a9fbaf5a82fb42996934b22dcf6a33ef85e15221d0cca926bb57b994865c0"
+  },
+  {
+    "asset": "DOGE",
+    "year": 2025,
+    "month": 3,
+    "sha256": "f60d351e755a03e4f1af3ed1eac8d15df8ffd31061824d571972b739eed83402"
+  },
+  {
+    "asset": "DOGE",
+    "year": 2025,
+    "month": 5,
+    "sha256": "f5da2cbc4b23de2cbdd5513c27e081595535ff49e7f133ef2f687b6316e59ce7"
+  },
+  {
+    "asset": "DOGE",
+    "year": 2025,
+    "month": 2,
+    "sha256": "2175e7d1dd69c4349d1b45d427d43871492b8da141e398f01432db636949c7af"
+  },
+  {
+    "asset": "DOGE",
+    "year": 2025,
+    "month": 6,
+    "sha256": "1822cbf2d40ca371e441219d082042cbf55ed415c3c8fb3b99fa040d538afc07"
+  },
+  {
+    "asset": "DOGE",
+    "year": 2025,
+    "month": 4,
+    "sha256": "104604f7d287e5b1a856b6d0795f38d0a8e1cf56c902ba0c926d462441a2ac52"
+  },
+  {
+    "asset": "DOGE",
+    "year": 2025,
+    "month": 1,
+    "sha256": "2a3be49b5e91ff396eac54b91114360586699a393d0d6178a767c41a5860de99"
+  },
+  {
+    "asset": "DOGE",
+    "year": 2025,
+    "month": 12,
+    "sha256": "01c3cf92a955ea881cb0266a407a57e9cc082c2b1de24e6d5296ced7fc765f63"
+  },
+  {
+    "asset": "DOGE",
+    "year": 2025,
+    "month": 7,
+    "sha256": "2f089b8d4e9cbbd0b1ebd79f5639dc2b0165c8c16303bc06a054947c8531b036"
+  },
+  {
+    "asset": "DOGE",
+    "year": 2025,
+    "month": 9,
+    "sha256": "f8e656ae978eba09aa8980bdc5dc8912e4c5eb0311aa0b2cb4eee9feda6080ac"
+  },
+  {
+    "asset": "DOGE",
+    "year": 2025,
+    "month": 10,
+    "sha256": "0ef51b722646174c57641fe6603a05b130afbe2f47df695f0f1d4c21ca04ca80"
+  },
+  {
+    "asset": "DOGE",
+    "year": 2025,
+    "month": 8,
+    "sha256": "20bc76ffb6c56632f2edc6d0ed8b010a660156cb65f4d07596cd751087c6d793"
+  },
+  {
+    "asset": "DOGE",
+    "year": 2025,
+    "month": 11,
+    "sha256": "d576e47a290c7992a6392b7a3c3b3acc04427299f73cf95fd6894e4ddd75cff4"
+  },
+  {
+    "asset": "DOGE",
+    "year": 2026,
+    "month": 5,
+    "sha256": "4bf9c05d5c36690932f5bee4d90e6ac36ad977d540f1e3ac10bf84a3f456b478"
+  },
+  {
+    "asset": "DOGE",
+    "year": 2026,
+    "month": 2,
+    "sha256": "e2bae3f3bda30259f64489e91c5b27af7fb5fd3e7c933a5c8424fbbc725f195e"
+  },
+  {
+    "asset": "DOGE",
+    "year": 2026,
+    "month": 6,
+    "sha256": "5a158fea8c3fee7a105445ecb9cfba6e8a2750d2fcf849677059b8f50ac84119"
+  },
+  {
+    "asset": "DOGE",
+    "year": 2026,
+    "month": 3,
+    "sha256": "11dfbfb5950e2677444bc930f7fe54ffa455602c3faa75267fc267be38f52c6f"
+  },
+  {
+    "asset": "DOGE",
+    "year": 2026,
+    "month": 4,
+    "sha256": "bc53491c0dba0281dd0f4d169276fa6d54129ab32beb6e60bb9b634f748cf136"
+  },
+  {
+    "asset": "DOGE",
+    "year": 2026,
+    "month": 1,
+    "sha256": "85a12aeff573262ae189ac7fff4e54f5513fefbfa67622d0b9e0f8b63f11fe86"
+  },
+  {
+    "asset": "AVAX",
+    "year": 2025,
+    "month": 3,
+    "sha256": "541301af9dc0487779691ce7ae79be21fcf60aad793b32d0a1fd822b670152a4"
+  },
+  {
+    "asset": "AVAX",
+    "year": 2025,
+    "month": 1,
+    "sha256": "a12e4aca1acd2cbb93238c85054a39d6a96f3bced3da317a6011dd29a05b682c"
+  },
+  {
+    "asset": "AVAX",
+    "year": 2025,
+    "month": 2,
+    "sha256": "055267d5154cae2c387f47f64f82135a51ae42bda0c4bb198a4446371d19c811"
+  },
+  {
+    "asset": "DOGE",
+    "year": 2026,
+    "month": 8,
+    "sha256": "802b00c4ad87451236c912823e807eb5803d066c3403cc0202cc9af68929eda4"
+  },
+  {
+    "asset": "DOGE",
+    "year": 2026,
+    "month": 7,
+    "sha256": "137c377cfe9d813f2abd6f416c584c85627ce8cc80b539912dd92b27cabf4dee"
+  },
+  {
+    "asset": "DOGE",
+    "year": 2026,
+    "month": 9,
+    "sha256": "e2b23f627c05cfb11de42391ceb77f0232806636b13735b78413a868c08acfba"
+  },
+  {
+    "asset": "AVAX",
+    "year": 2025,
+    "month": 5,
+    "sha256": "eda629638093ea6a6e5b719ff650624976773a72962309d903fa459db9695d84"
+  },
+  {
+    "asset": "AVAX",
+    "year": 2025,
+    "month": 4,
+    "sha256": "9df45f1b5b42c53302b7eb3394bbe1a7f9a992d0e91e6c78870eb63c3a0e93db"
+  },
+  {
+    "asset": "AVAX",
+    "year": 2025,
+    "month": 6,
+    "sha256": "8e40811059d938c5712025a8b4da934a547e30d2321ca7798741167c54f39505"
+  },
+  {
+    "asset": "AVAX",
+    "year": 2025,
+    "month": 8,
+    "sha256": "62ec1683dcf0547aec1c8783b8a487691b63514b60fc1ea6887cf80e12c59c4f"
+  },
+  {
+    "asset": "AVAX",
+    "year": 2025,
+    "month": 7,
+    "sha256": "418fee86ca2982601ea984410ae704dae45be9996f1d62d2a08956c0f373cdbd"
+  },
+  {
+    "asset": "AVAX",
+    "year": 2025,
+    "month": 9,
+    "sha256": "6f9fa62b8c64dff5a53ca7dfd89279dab579d77628131584a408d361a4ccb507"
+  },
+  {
+    "asset": "AVAX",
+    "year": 2026,
+    "month": 3,
+    "sha256": "c8b548e7e2e82f748c5755241089a4ecb2bf622dccfde60faa929ca28ac2a285"
+  },
+  {
+    "asset": "AVAX",
+    "year": 2025,
+    "month": 12,
+    "sha256": "ac6fe1099f55e662a3f397c5a648bd1d4bed64912b87d008f5298edfb938a8de"
+  },
+  {
+    "asset": "AVAX",
+    "year": 2026,
+    "month": 2,
+    "sha256": "2834e667ffe2fbeeadb084ecb9a017c3f13ebd7600db422f082e32426dfa73f0"
+  },
+  {
+    "asset": "AVAX",
+    "year": 2026,
+    "month": 1,
+    "sha256": "07cdad4f3bb353884e58cc11a25d71390b6e3f5ffad7369caf163fbe790e011a"
+  },
+  {
+    "asset": "AVAX",
+    "year": 2025,
+    "month": 10,
+    "sha256": "43157d188aa8b4e9256e57e726fa6392281d96e887d1953a2d4be3e6ba32cb31"
+  },
+  {
+    "asset": "AVAX",
+    "year": 2025,
+    "month": 11,
+    "sha256": "c7ae344aa41e5b34b56ea5fab523a5e6e7215c414fc5fa4a4e539f34ee8725cb"
+  },
+  {
+    "asset": "AVAX",
+    "year": 2026,
+    "month": 4,
+    "sha256": "e60fdbc7d9adca7c9f7aadfeee2223fe405ba6789f38896f90bdfc8dd55a3793"
+  },
+  {
+    "asset": "AVAX",
+    "year": 2026,
+    "month": 6,
+    "sha256": "cb246283db51b26687b5b87027f0a554b5f504b63524779f32a2a73937b26126"
+  },
+  {
+    "asset": "AVAX",
+    "year": 2026,
+    "month": 8,
+    "sha256": "3a2a6f44e4ea17454ffc5973ae11a7098219c0a5d1c8aab72f907db6cdcfe7b3"
+  },
+  {
+    "asset": "AVAX",
+    "year": 2026,
+    "month": 9,
+    "sha256": "329fc3e11ef3a851fc407c29e463cfdfbcf25078b0141d22f6383706bd0d63ce"
+  },
+  {
+    "asset": "AVAX",
+    "year": 2026,
+    "month": 5,
+    "sha256": "8193a3b0bf233fe579d0cdc28b29e94fba328d16b3272670e4760ac2d1aec6fb"
+  },
+  {
+    "asset": "AVAX",
+    "year": 2026,
+    "month": 7,
+    "sha256": "c62e46b3ac2c31f2555a46ab9bf583f1dfd308a47cfc967db8245a5946526a33"
+  },
+  {
+    "asset": "LINK",
+    "year": 2025,
+    "month": 5,
+    "sha256": "c6132d1a0a7c7804b652e7eee6778aac8a450d407fe9609bd2a9dfb6669c22b3"
+  },
+  {
+    "asset": "LINK",
+    "year": 2025,
+    "month": 4,
+    "sha256": "b1bde4d6ccc2309928a81bfcf1ce7a01364a6f1c6f4900792dee5be9b82c520a"
+  },
+  {
+    "asset": "LINK",
+    "year": 2025,
+    "month": 2,
+    "sha256": "c992844208760f0c80d8077879fda06e63a39a909b1e252ab8b4c8b59de2bc17"
+  },
+  {
+    "asset": "LINK",
+    "year": 2025,
+    "month": 3,
+    "sha256": "562371d04ee2d58cef061e6bfc26e9af9f0e343839e5123bb76a4fe47fb8fc6e"
+  },
+  {
+    "asset": "LINK",
+    "year": 2025,
+    "month": 6,
+    "sha256": "a35a349d477a4a5a97408b778b856fb648cfb464fd97f7f952cdd688e44e7fce"
+  },
+  {
+    "asset": "LINK",
+    "year": 2025,
+    "month": 1,
+    "sha256": "c97c6edf01bf557ba2b8ecd5a0bbd4d98dc24249fda8c7581903b707573f3fae"
+  },
+  {
+    "asset": "LINK",
+    "year": 2025,
+    "month": 10,
+    "sha256": "bdd75eafc2d8227447684808526c0a000ccdacf692b7878059989280e3a180cd"
+  },
+  {
+    "asset": "LINK",
+    "year": 2025,
+    "month": 11,
+    "sha256": "37dc85162deab1937365e23620d9e667f3e6e015293d5e5b5916fe5ba60fb51b"
+  },
+  {
+    "asset": "LINK",
+    "year": 2025,
+    "month": 7,
+    "sha256": "2941b47fba2bbe3e0037c9b5d18eb533d68a8afe0bb9b8a694a2aae5b3667dbe"
+  },
+  {
+    "asset": "LINK",
+    "year": 2025,
+    "month": 9,
+    "sha256": "a4905ef32106ced5672a57d0ac3f39a214b19cfa3cdc3b14b81f7125ae8b1fdc"
+  },
+  {
+    "asset": "LINK",
+    "year": 2025,
+    "month": 8,
+    "sha256": "508f07182a223446d51ef6b0eba5a900f8994cf6b9e229ebd1448022ed12d908"
+  },
+  {
+    "asset": "LINK",
+    "year": 2025,
+    "month": 12,
+    "sha256": "6f765d386af02310046113a24b7c5d42096f8a23175fc97b41afda8cc6ce394b"
+  },
+  {
+    "asset": "LINK",
+    "year": 2026,
+    "month": 6,
+    "sha256": "721a4a6ec6d483e744bb4ee9ae15c707a40a7302745bde76d30cf92832681090"
+  },
+  {
+    "asset": "LINK",
+    "year": 2026,
+    "month": 5,
+    "sha256": "0534ec30207efdb505d706f121d955d8af7da21afed9ae7d695cda7e7deea6f0"
+  },
+  {
+    "asset": "LINK",
+    "year": 2026,
+    "month": 2,
+    "sha256": "1cc7ceee84ab77d025cec91704d50b5ca6df9824ad88478ec1b28426bbd12c19"
+  },
+  {
+    "asset": "LINK",
+    "year": 2026,
+    "month": 1,
+    "sha256": "ad831a83d13ab26ea717575c826046712ac105d9468ac76c91d9e0dec74e4f4e"
+  },
+  {
+    "asset": "LINK",
+    "year": 2026,
+    "month": 4,
+    "sha256": "818f16b5bbc12385752cf58d087f86ec8fc428bedbc92e27c9832642bff25c2f"
+  },
+  {
+    "asset": "LINK",
+    "year": 2026,
+    "month": 3,
+    "sha256": "83f9d351208b709d4d9549d0c42b6b35e94c8437b8c8e187298c6f806cd48035"
+  },
+  {
+    "asset": "LINK",
+    "year": 2026,
+    "month": 9,
+    "sha256": "3300d4a09247514a4dce5b551d38237625fec29c876a1ba8a96cb38198da7497"
+  },
+  {
+    "asset": "DOT",
+    "year": 2025,
+    "month": 2,
+    "sha256": "e1856ee69b751c7779b08a9036d004e14f6bb7b44502b6a88e034db11e558ab7"
+  },
+  {
+    "asset": "LINK",
+    "year": 2026,
+    "month": 7,
+    "sha256": "fb305b15d2c180d3046c77a101ad89d5e6c139557fa2f5deb8824d3cadb2ea8c"
+  },
+  {
+    "asset": "LINK",
+    "year": 2026,
+    "month": 8,
+    "sha256": "b41a1fd47dd5b11cbb5c163e35edd63b77af2635f3f948939b7533dcc49f8077"
+  },
+  {
+    "asset": "DOT",
+    "year": 2025,
+    "month": 1,
+    "sha256": "c91d0b6bd1677790276cf238475b0e1986781837df11317bcfbc01f76f280298"
+  },
+  {
+    "asset": "DOT",
+    "year": 2025,
+    "month": 3,
+    "sha256": "c202473effc1e6752871d7cc66e01840ca1148b47859e666992a9acb60af73b7"
+  },
+  {
+    "asset": "DOT",
+    "year": 2025,
+    "month": 4,
+    "sha256": "6110e2456deb71330ce1ba5ca67ff50ddd8b1657cde7a8a6858abade6f7a9125"
+  },
+  {
+    "asset": "DOT",
+    "year": 2025,
+    "month": 8,
+    "sha256": "c7b63198fa93ea5df368cd792d1efb0e9918cd1ecea74e89edd192da551d24fa"
+  },
+  {
+    "asset": "DOT",
+    "year": 2025,
+    "month": 7,
+    "sha256": "337cd672eebf410b7ceb4fcd2a752950bf8d065b88f0342accc1ced70b92e9f0"
+  },
+  {
+    "asset": "DOT",
+    "year": 2025,
+    "month": 9,
+    "sha256": "bd8619af6c938f387a3fceabd21a55a9ddbfbfe833b2a4e8a74ae7f45509ddf2"
+  },
+  {
+    "asset": "DOT",
+    "year": 2025,
+    "month": 6,
+    "sha256": "23661b8b07807ca1a58f783a5012d3ad0f80e73cd09e127f1ba6a9de5a77a6c8"
+  },
+  {
+    "asset": "DOT",
+    "year": 2025,
+    "month": 5,
+    "sha256": "a2f67f3fa9b70068b96fdaf00c60e086d7c297e458cef9f393c70733d6daf28a"
+  },
+  {
+    "asset": "DOT",
+    "year": 2026,
+    "month": 1,
+    "sha256": "4b9f043f156a3a708d49df724949a130e60c6b5e3b3a8a3b5a21384441120413"
+  },
+  {
+    "asset": "DOT",
+    "year": 2025,
+    "month": 10,
+    "sha256": "5815075039550f59b524682a0523498d8ff598654d2366b2442053e2021fbd8a"
+  },
+  {
+    "asset": "DOT",
+    "year": 2025,
+    "month": 11,
+    "sha256": "da38c0d9bd516b5524492c2bc259376cc2ba351cb7600973cbc8a2549ebedb94"
+  },
+  {
+    "asset": "DOT",
+    "year": 2025,
+    "month": 12,
+    "sha256": "c91cb49e8c2d456e6306838fc6574d4ece20840510c6211a25bdca2fd37bdd81"
+  },
+  {
+    "asset": "DOT",
+    "year": 2026,
+    "month": 3,
+    "sha256": "d92c3e8c0422561b553aed0db074bf28dd17c877bb980c75e0ae42fc730a239a"
+  },
+  {
+    "asset": "DOT",
+    "year": 2026,
+    "month": 2,
+    "sha256": "f3016e1587118fa2b7622bf6515a7219aa59a84c07a015ed68def5026b714a5b"
+  },
+  {
+    "asset": "DOT",
+    "year": 2026,
+    "month": 7,
+    "sha256": "655566b1d1defa5f29c79aa096ed1ec208bd9fd6de673c6fa05861efc5e08670"
+  },
+  {
+    "asset": "DOT",
+    "year": 2026,
+    "month": 5,
+    "sha256": "fa2e2cecf7c00e0dfadc36114b62b10e3c2d3b6348b975edc2d7fc17d16437db"
+  },
+  {
+    "asset": "DOT",
+    "year": 2026,
+    "month": 4,
+    "sha256": "b4a0ade915bbddcb2e86da98bf6eb843595915049c495c7f5b7dbdfdad790443"
+  },
+  {
+    "asset": "DOT",
+    "year": 2026,
+    "month": 6,
+    "sha256": "aadbbc72416925e8051cfc4dd980ec621f38ee1fac4e4b5147dfd5a4f0be7bfd"
+  },
+  {
+    "asset": "DOT",
+    "year": 2026,
+    "month": 9,
+    "sha256": "e1266f320f8b0fc8804fdf33b9b7fb612af539c6d6779c388c24db9e19006f0e"
+  },
+  {
+    "asset": "DOT",
+    "year": 2026,
+    "month": 8,
+    "sha256": "3426b02f0ca8913f308af2aa7bbf962f321da665c6f4eeaeb3047f603dac90a8"
+  },
+  {
+    "asset": "LTC",
+    "year": 2025,
+    "month": 5,
+    "sha256": "1710d42839224f4df475720411219665b420f2a98caa3ca2a4b2f4e18457a106"
+  },
+  {
+    "asset": "LTC",
+    "year": 2025,
+    "month": 4,
+    "sha256": "2feb416d8b9bd134703d885fa77eec1891fc1097c738f8a871fa225d88e7c8db"
+  },
+  {
+    "asset": "LTC",
+    "year": 2025,
+    "month": 2,
+    "sha256": "477269b99dac81eec10191d1d98ed8b4a49f0a4a33997f63deaaf26b672f06f8"
+  },
+  {
+    "asset": "LTC",
+    "year": 2025,
+    "month": 3,
+    "sha256": "98d3cc44952068ca2e9d0398ed57201dd0db53a16f34311b518619da3d227404"
+  },
+  {
+    "asset": "LTC",
+    "year": 2025,
+    "month": 6,
+    "sha256": "bcd7756e50669acf8259213bf762a0f60b7aeaf5a0c8b55562221fe601f65a4c"
+  },
+  {
+    "asset": "LTC",
+    "year": 2025,
+    "month": 1,
+    "sha256": "e872d2f5bc4b7b2aa5c7b5d4613facf20f31ce4df342b051882cba6ab2873cf3"
+  },
+  {
+    "asset": "LTC",
+    "year": 2025,
+    "month": 10,
+    "sha256": "33391e7e5ca9c80be67040c92c7100b70fb51881ba134fa906e8d47d9faed925"
+  },
+  {
+    "asset": "LTC",
+    "year": 2025,
+    "month": 11,
+    "sha256": "ec496aa2ee14ce171a74d403b3b7048feb01b06a567ae973834a807920c17baa"
+  },
+  {
+    "asset": "LTC",
+    "year": 2025,
+    "month": 12,
+    "sha256": "0680ac6f30d020f32b747842a25e21ac103bca70a947afb5798ea53edaa90297"
+  },
+  {
+    "asset": "LTC",
+    "year": 2025,
+    "month": 9,
+    "sha256": "d81bce0b2ae704930451716099d0acdec2f0771f652af431c7dc03cf26d8bbbe"
+  },
+  {
+    "asset": "LTC",
+    "year": 2025,
+    "month": 7,
+    "sha256": "5aa3b3eec29dcfc696afe45c03582d3d0e7e85ad7824d19d336bd671e6ec0e2a"
+  },
+  {
+    "asset": "LTC",
+    "year": 2025,
+    "month": 8,
+    "sha256": "542a9187114a0ff4c48fc0f8c075e6e0e5c39671e6e6b0d6434dc16d91a3955e"
+  },
+  {
+    "asset": "LTC",
+    "year": 2026,
+    "month": 5,
+    "sha256": "14f743de326d900334f6bdd5984d8055b262c6414f007430969100c5ddc32d5e"
+  },
+  {
+    "asset": "LTC",
+    "year": 2026,
+    "month": 6,
+    "sha256": "6b3de54096ef9201b80603fc8ebc125fa23a8f3f9030822b7cd81649dc1d69d0"
+  },
+  {
+    "asset": "LTC",
+    "year": 2026,
+    "month": 1,
+    "sha256": "e163f350baa16c769c8caf87e05d5c357bf62bbd107d12ef4ccefcd35ccfe964"
+  },
+  {
+    "asset": "LTC",
+    "year": 2026,
+    "month": 4,
+    "sha256": "3396a18ce755da3c452150e271a28d133b21d495c995852edb5f8314c54167dc"
+  },
+  {
+    "asset": "LTC",
+    "year": 2026,
+    "month": 2,
+    "sha256": "fe2ea05349107052f3128b802c14a4a8ac1543b5c168a49d779700fc17a37ec9"
+  },
+  {
+    "asset": "LTC",
+    "year": 2026,
+    "month": 3,
+    "sha256": "1704f5cb1dc93b145d96eec6fab3e60daab431f5da5779e54cf1bb6de696e1fe"
+  },
+  {
+    "asset": "LTC",
+    "year": 2026,
+    "month": 9,
+    "sha256": "8be381f2699daba216f6aa7374baa45f568be7a4459d822816ed194518aa6e4d"
+  },
+  {
+    "asset": "NEAR",
+    "year": 2025,
+    "month": 1,
+    "sha256": "751ace325b6eef285105a1e527ce870abb57e68f73b2e828ef8d3c36dad9ffdc"
+  },
+  {
+    "asset": "NEAR",
+    "year": 2025,
+    "month": 2,
+    "sha256": "8b180bd704e13e81f998b9eac792926bec29364ba9a4307ff22867c9e27dddaa"
+  },
+  {
+    "asset": "LTC",
+    "year": 2026,
+    "month": 8,
+    "sha256": "7a068c002a33318c338ec4b2e68d8897efae1f25e45ba761edc7232a138198fb"
+  },
+  {
+    "asset": "NEAR",
+    "year": 2025,
+    "month": 3,
+    "sha256": "46b73a98d105c0a9bea14467d4ac2da17522772f8bbdacaf8d8e7ce61744de1a"
+  },
+  {
+    "asset": "LTC",
+    "year": 2026,
+    "month": 7,
+    "sha256": "eb4257eae8ea08174631a7afe8e3dea082c1859d040d0b1f3474325f8191a4e7"
+  },
+  {
+    "asset": "NEAR",
+    "year": 2025,
+    "month": 4,
+    "sha256": "339f08aaf86cbd2b1753c29cb4fc3d04a9a7305643a43316b073ad2acb1c58c5"
+  },
+  {
+    "asset": "NEAR",
+    "year": 2025,
+    "month": 7,
+    "sha256": "97bd634c6008f7ca37abb63bc51b9f07632efe6deaceee43e9ee12f9806686e1"
+  },
+  {
+    "asset": "NEAR",
+    "year": 2025,
+    "month": 8,
+    "sha256": "d9d41ecf7665950527f82c07e1d4403e2f8fb44238ae7f4d7badf7ab03529cea"
+  },
+  {
+    "asset": "NEAR",
+    "year": 2025,
+    "month": 5,
+    "sha256": "24f318f9c8508f09a64e00c7d9063bcd413389d30cbb67854d5e5f887241d997"
+  },
+  {
+    "asset": "NEAR",
+    "year": 2025,
+    "month": 6,
+    "sha256": "9835d2d4ed415ed705ee4baeae522d06202c461ee8d7fc611cbc82f4954aa469"
+  },
+  {
+    "asset": "NEAR",
+    "year": 2025,
+    "month": 9,
+    "sha256": "29a3646d6f3ff97c1e3270fc274115933dc403791157fff0472678b3c3cb12cc"
+  },
+  {
+    "asset": "NEAR",
+    "year": 2025,
+    "month": 10,
+    "sha256": "7b9b007507a0e157a3ea1236922b9f0a7b3fc7a055c4350af9303ea7ef2915be"
+  },
+  {
+    "asset": "NEAR",
+    "year": 2026,
+    "month": 1,
+    "sha256": "af4291e83c38d25f9e6d03e927f66ec529490108a95732e5e4822908a43a030a"
+  },
+  {
+    "asset": "NEAR",
+    "year": 2026,
+    "month": 2,
+    "sha256": "3cb29df4a29f356d80ddb058779564793db2d1c09b9006a56a22d6399abfe078"
+  },
+  {
+    "asset": "NEAR",
+    "year": 2025,
+    "month": 12,
+    "sha256": "69fe5283addf60084a6b742849421adb5b16d43126fb7561c3028f0850e3ab4f"
+  },
+  {
+    "asset": "NEAR",
+    "year": 2025,
+    "month": 11,
+    "sha256": "a47c9ab0576af1dcaa4ac81c2f6848647db4372f0ccc9b76f18797c6d98bb5a8"
+  },
+  {
+    "asset": "NEAR",
+    "year": 2026,
+    "month": 3,
+    "sha256": "386b1c0af636ca484f8932e8b7c51969a40ffd2a3c148ad6496a38a53edb4c04"
+  },
+  {
+    "asset": "NEAR",
+    "year": 2026,
+    "month": 6,
+    "sha256": "6709309dd2a635d2ecae17298e1f70da3b725df628eee22b8eb2186a1add7a24"
+  },
+  {
+    "asset": "NEAR",
+    "year": 2026,
+    "month": 4,
+    "sha256": "e30cbd4c3e5c2f438ca5511376e34a5052e1b5f5cdb763d0acdfee33002f2ae3"
+  },
+  {
+    "asset": "NEAR",
+    "year": 2026,
+    "month": 5,
+    "sha256": "1451b9516bb9dd2e27c9c4ea5bfa25c8d399649b887028c2e1175cee79a44e52"
+  },
+  {
+    "asset": "NEAR",
+    "year": 2026,
+    "month": 9,
+    "sha256": "3b1f30f3e270061a72ca7ff419a5cb59c53be3b62cf372e11f09e041cf84785d"
+  },
+  {
+    "asset": "NEAR",
+    "year": 2026,
+    "month": 8,
+    "sha256": "e075ca23757b483545a31a10cc1ee534b19c8eea5dbed3015a1d96b5353e5cd3"
+  },
+  {
+    "asset": "NEAR",
+    "year": 2026,
+    "month": 7,
+    "sha256": "87ef0140c041a0c28086e123f97aa5c0377a1d6c6b763b237b48015d49676e99"
+  }
+]

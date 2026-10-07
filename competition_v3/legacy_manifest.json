@@ -1,0 +1,16 @@
+{
+  "competition-controller-2": {
+    "controller.py": "f5ec1b777e075ee714dada3d42f1085cd8968bf0598f80fc287231bc91aa3fe1",
+    "api.py": "471811a8591aeae27bfc2c6478a14df5bb27bcf69cbf6982383aa27e4ec3f8bf",
+    "feed.py": "fca341846e60cac30960380dbca970f0908a0a42a46f5294a70781031d654519",
+    "strategy.py": "19a307b215413b999ac0880fb719452fb47e7c243c3a198a2d200546c52dae4b",
+    "policy.json": "1589f917ef66af756bf71296faea7df0b74697992d0f792b2a07da97ec387d41"
+  },
+  "competition-controller-2.1": {
+    "controller.py": "ff410f3ee1fab010cc43a26efc3958381d552ddd09b794d08a0202c99375589f",
+    "api.py": "471811a8591aeae27bfc2c6478a14df5bb27bcf69cbf6982383aa27e4ec3f8bf",
+    "feed.py": "5330aacd0362be0789bd5005c77837eb625e1af29e6e872d6eab6e96a90c4b2c",
+    "strategy.py": "6e90c86a08d3b254787160a4b21dcdd4c01d2967b884d01d7fecb0a6da91a848",
+    "policy.json": "094597fba01f9e23885c4c407cae7597116dc9b25a42277caee4a485f04e142c"
+  }
+}

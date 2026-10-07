@@ -1,0 +1,16 @@
+{
+  "position_fraction": "0.12", "gross_fraction": "0.50", "max_positions": 5,
+  "daily_vol_target": "0.02", "min_quote_volume_24h": "5000000",
+  "max_spread": "0.003", "max_correlation": "0.85", "end_utc": null,
+  "universe": ["BTC","ETH","SOL","BNB","XRP","ADA","DOGE","AVAX","LINK","DOT","LTC","NEAR"],
+  "ladder": {"soft":"0.015","hard":"0.03","pause_hours":24,"recover_hours":48,"floor_fraction":"0.94"},
+  "filters": {"z_max":"2.0","r6_max":"0.03","btc_m24_off":"-0.03","btc_vol_ratio":"2"},
+  "guard": {"local_hour":20,"utc_offset_hours":8,"mode":"MONITOR_ONLY"},
+  "sleeves": [
+    {"name":"xs","family":"xs","lookback":336,"rebalance_hours":72,"gross":"0.10","k":2},
+    {"name":"ts","family":"ts","lookback":720,"rebalance_hours":168,"gross":"0.10","k":0}
+  ],
+  "risk": {"per_position":"0.005","portfolio":"0.025","core_gross":"0.30","cooldown_hours":12,"stop_fraction":"0.08","atr_exits":false,"atr_stop":"2.5","min_stop":"0.01","max_stop":"0.08","partial_at_r":"1.5","trail_at_r":"2.0","trail_r":"1.0"},
+  "rotation": {"enabled":true,"min_hold_hours":24,"interval_hours":12,"min_score_ratio":"1.5","min_score_gap":"0.5","cost_multiple":"2.0","max_per_day":2},
+  "execution": {"entry_type":"MARKET","fee":"0.001","slippage":"0.0005","cost_multiple":"1.5","limit_timeout_seconds":60,"max_writes_per_hour":8}
+}
