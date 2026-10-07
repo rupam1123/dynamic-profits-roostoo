@@ -1,0 +1,8 @@
+{
+  "rebalance_hours": {
+    "xs": 24,
+    "ts": 72
+  },
+  "slippage_bps": 15,
+  "reason": "Single predeclared faster-rotation hypothesis; no increased allocation, relaxed signals or tuning."
+}
