@@ -1,0 +1,18 @@
+{
+  "position_fraction": "0.10",
+  "end_utc": null,
+  "gross_fraction": "0.30",
+  "max_positions": 3,
+  "daily_vol_target": "0.02",
+  "min_quote_volume_24h": "5000000",
+  "max_spread": "0.003",
+  "max_correlation": "0.85",
+  "universe": ["BTC", "ETH", "SOL", "BNB", "XRP", "ADA", "DOGE", "AVAX", "LINK", "DOT", "LTC", "NEAR"],
+  "ladder": {"soft": "0.015", "hard": "0.03", "pause_hours": 24, "recover_hours": 48, "floor_fraction": "0.94"},
+  "guard": {"local_hour": 20, "utc_offset_hours": 8, "entry_mult": "0.5", "trim_fraction": "0.25", "probe_fraction": "0.02", "probe_hours": 24},
+  "filters": {"z_max": "2.0", "r6_max": "0.03", "btc_m24_off": "-0.03", "btc_vol_ratio": "2"},
+  "sleeves": [
+    {"name": "xs", "family": "xs", "lookback": 336, "rebalance_hours": 72, "gross": "0.10", "k": 2},
+    {"name": "ts", "family": "ts", "lookback": 720, "rebalance_hours": 168, "gross": "0.10", "k": 0}
+  ]
+}

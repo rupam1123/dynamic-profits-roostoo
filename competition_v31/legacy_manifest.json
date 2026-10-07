@@ -1,0 +1,9 @@
+{
+  "controller.py": "eedce8667eff6357079e5f1c1fed8bfe295e444e621b5b2fd6e4f6fd1ffbc6cc",
+  "api.py": "109d8a10658a3d6e17bbedfe90dde5939b5b41dd8f6d3a89dd96b46bc5d00aa6",
+  "feed.py": "5330aacd0362be0789bd5005c77837eb625e1af29e6e872d6eab6e96a90c4b2c",
+  "policy.json": "4bcd7404f7f4a84c85f5f4012c85026e21d4cbf1a09a76a058d1257d00bda817",
+  "strategy.py": "f77988f6fa8d54be2dc63c3dbfbb0c097a0834c2eaaaeeef1dcd677944e23475",
+  "config.py": "132dc9db2e08ce694dc5cfb65cc8205a96a47307621c67f5fcb958e31ff4c879",
+  "limit_orders.py": "ea4a201356bc8700f60528b9f95e9176d6b1d6979749e9265c9487adb253496c"
+}
