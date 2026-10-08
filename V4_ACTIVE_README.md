@@ -37,7 +37,7 @@ API reference: https://github.com/roostoo/Roostoo-API-Documents
 
 88 offline tests pass. Added cases verify rolling pacing across restart, exits remaining available during entry pacing, more than 60 daily attempts not blocking entry, fresh re-entry, additions beyond count two within caps, actual entry-fee target adjustment and migration of an original-V4 holding without orders. Existing tests cover uncertain writes, partial fills, cancellation uncertainty, dynamic mapping, independent quote observation, risk limits and deployment interruption/repair.
 
-Source and tests parse as Python 3.9; tests executed here on Python 3.12. AWS runs them again with its actual Python 3.9. The PowerShell installer was not executed here (PowerShell unavailable). Existing V3.1/V3.2/original-V4 release files are unchanged and checksum-verified. No production account, new release live fill or improved return was verified here. The previous public universe scan is not a return backtest; no matched V4 scalping replay is claimed.
+All 88 tests now pass on actual Python 3.9.25 (matching AWS) and Python 3.12. The original test setup used TestCase.enterContext, unavailable on Python 3.9; it is replaced with patch.start() and registered cleanup. Trading modules and journal fingerprints are unchanged. AWS runs the tests again before migration. The PowerShell installer was not executed here (PowerShell unavailable). Existing V3.1/V3.2/original-V4 release files are unchanged and checksum-verified. No production account, new release live fill or improved return was verified here. The previous public universe scan is not a return backtest; no matched V4 scalping replay is claimed.
 
 ## Install and monitor
 

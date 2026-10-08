@@ -14,7 +14,9 @@ class FastExecutionTests(Base):
         r=Runner(self.ex,self.store);info,ticks=bot.public_market(self.ex)
         r.market.metadata(info);r.market.mapping({p:p.split('/')[0]+'USDT' for p in self.sig},{})
         r.market.publish(ticks,self.store.load());r.market.publish_signals(int(self.ex.clock)//3600,int(self.ex.clock)//300,self.sig,{},int(self.ex.clock)//60)
-        self.enterContext(patch.object(bot,'MARKET',r.market));return r
+        market_patch=patch.object(bot,'MARKET',r.market)
+        market_patch.start();self.addCleanup(market_patch.stop)
+        return r
 
     def test_fast_limit_entry_and_quote_target_exit(self):
         r=self.runner();r.step();pos=self.store.load()['positions']['BTC/USD']

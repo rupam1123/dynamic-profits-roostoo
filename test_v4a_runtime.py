@@ -35,7 +35,9 @@ class RuntimeTests(Base):
         runner.market.publish(ticks,self.store.load())
         s={p:dict(v,timing=five(v,self.ex.clock)) for p,v in self.sig.items()}
         runner.market.publish_signals(int(self.ex.clock)//3600,int(self.ex.clock)//300,s,{},int(self.ex.clock)//60)
-        self.enterContext(patch.object(bot,'MARKET',runner.market));return runner
+        market_patch=patch.object(bot,'MARKET',runner.market)
+        market_patch.start();self.addCleanup(market_patch.stop)
+        return runner
 
     def tick(self,runner):
         ticks=self.ex.request('/v3/ticker');runner.market.publish(ticks,self.store.load())

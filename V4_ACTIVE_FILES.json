@@ -1,7 +1,7 @@
 {
   "CHECK_V4_ACTIVE_AWS.sh": "18e7301c89c74dde9d4d782ec07642c02b436040351829a9d98237db56c6cba8",
   "INSTALL_V4_ACTIVE.ps1": "5419e2ed687eb475a7d735e8e0d84e4b4db401fe4df3477494725e0305b5c12a",
-  "V4_ACTIVE_README.md": "9b685022f10088f11ee7bcb60899c0c1e6b8674689e4d1394dae53e418cf6a63",
+  "V4_ACTIVE_README.md": "111662d87804ef6ebcef5d22988cb9e297e52afe08f8b9a0456aaabdaca76154",
   "V4_ACTIVE_ROLLOUT.md": "7888236045d698ce782764f4356ca4556e376469ac6ed92ce87aa7570c36bcbf",
   "competition_v32/.gitignore": "32dae3052f331ee34d628ef535709b301259a45df7c7522c4d35dcf49873f00b",
   "competition_v32/__init__.py": "6e113bbe93ac23057abeb32b6befc31cb48ccd835960d213e9979736ab844214",
@@ -56,13 +56,13 @@
   "test_competition_v4a.py": "16b0bd8eb623ccf5e06aa7cd3243ec7e4378345188508721fd19e77491f5645b",
   "test_v4a_activity.py": "8a728b1bfd2157a2cf38c0483fcee5ef16d9b55bbb7994a7f0735cc1abbf38cb",
   "test_v4a_deploy.py": "4e4d93adf62bcb5151ce7394405aedced01993fe486eab523cbb82dc60f8dad2",
-  "test_v4a_fast_orders.py": "bcb898277d9e85f34a82a4482106629acd54f076293228b742fe689aaec9a066",
+  "test_v4a_fast_orders.py": "2b609df7cea3b56a2a485694d88f11663768ce833d4a6a6e4348d1dc742eaa98",
   "test_v4a_management.py": "75535bd0098edd67cc95eb41e987a75bc4b14c9910449feae342653686ace099",
-  "test_v4a_runtime.py": "cb8fcc9d8a6edd640b104b350fb442c0133b57c79dd8135d37849167c1a45227",
+  "test_v4a_runtime.py": "040224de1106f474cb035baffd428597c4ec3eb97912842e453a96e78c496a04",
   "test_v4a_selection.py": "84e2040bc7a39c22be26cd2ff3a040c0959512abe12b6abc4cde673122b4c6c0",
   "v3_tests/.gitignore": "862263fa1f46c20f0d1e4dac5ffcc75abd55c08211b2c3864c5f8764b9d87793",
   "v3_tests/__init__.py": "a0461d3dba14ade4e8ced1b74caa75ebcfbba08b0f1daf0c7f0716fcddb8f0b0",
   "v3_tests/exchange.py": "72b0b17583ed702c75f03afa0df62d94054c91a1e57076ff18029141c2bd7230",
-  "validation/v4_active_tests.log": "8d7785e7812ebe30e86142489bae5acab8cef545dd1830ccf35026c2ed78177d",
+  "validation/v4_active_tests.log": "029ecf3a985974a6d58923dcfe1a79e268330ce70af10074b8ea1d8965eafdc0",
   "verify_v4_active.py": "2ce399956db7ee317fb1e783d4f05acb4257c6c8e8c3abe2a431580982046d23"
 }
