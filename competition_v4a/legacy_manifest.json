@@ -1,0 +1,42 @@
+{
+  "competition-controller-3.1": {
+    "module": "competition_v31.controller",
+    "files": {
+      "feed.py": "5330aacd0362be0789bd5005c77837eb625e1af29e6e872d6eab6e96a90c4b2c",
+      "strategy.py": "7b1ba34c27a8cb65c4469db97568aa431600fb24c589fd9c1d1be1c7615522f3",
+      "api.py": "109d8a10658a3d6e17bbedfe90dde5939b5b41dd8f6d3a89dd96b46bc5d00aa6",
+      "limit_orders.py": "ea4a201356bc8700f60528b9f95e9176d6b1d6979749e9265c9487adb253496c",
+      "controller.py": "c03e186807b5eca7d24e764d5ec198f70a44b933f76d7fc4de635025e715c7a3",
+      "policy.json": "094597fba01f9e23885c4c407cae7597116dc9b25a42277caee4a485f04e142c"
+    }
+  },
+  "competition-controller-3.2": {
+    "module": "competition_v32.controller",
+    "files": {
+      "feed.py": "bbfca8e3fc855586b620bd964c8a3138f59cab6a291fa2907c1d9ce34f0a060a",
+      "strategy.py": "c23b8e86b8459c4f721dcbdb8b87ce138bfbe9f6067a388667a863208e462413",
+      "timing.py": "5bacb73ddfda7f36abd051a04425e73e538e622da5a4994e495725bb0744e670",
+      "api.py": "109d8a10658a3d6e17bbedfe90dde5939b5b41dd8f6d3a89dd96b46bc5d00aa6",
+      "limit_orders.py": "ea4a201356bc8700f60528b9f95e9176d6b1d6979749e9265c9487adb253496c",
+      "controller.py": "b898c1706fed8c1b957ba8d57af01435f4c8caad97a17b1a9d54d505ada65042",
+      "policy.json": "0a0c8e0245873e06034a8ede2c7d111e039ce6d5290fd0fd6f1efaf3a0c3efaa"
+    }
+  },
+  "competition-controller-4": {
+    "module": "competition_v4.controller",
+    "files": {
+      "controller.py": "af79f4a2fa9f8151b0d09426b189eb4a72c7c564468d6b4acd4aae4b05b25419",
+      "api.py": "5fd08389b799ddb681901fc9b7d493a655da0a3904292a139b21307bb2b11404",
+      "feed.py": "bbfca8e3fc855586b620bd964c8a3138f59cab6a291fa2907c1d9ce34f0a060a",
+      "policy.json": "74bcaf22be2514aebbb7531a50287da5f91713bef9cc8efe36f2035e69a1e8d3",
+      "strategy.py": "bce4773558581007aa7f1c8b188c5bf4fdccafd668db27df5898382b50bf82af",
+      "limit_orders.py": "32db8a6e672df2fdb218d31f858f6ce3f3922cc885e3342a0ef56bd9a4410186",
+      "timing.py": "fe6b7d5f68ded91e196abdb2d88229672040dae4052feea30f9f0c5975ec1300",
+      "fast.py": "a9e1a6e5f608966dd96d13bff433677675e27b087fab48c09797dfc3c54be0ad",
+      "market.py": "0f50a492bafb43accae64fbd256b4d46180011ca46f30e8704035f43ca36e064",
+      "universe.py": "293594df5453758b149c7e9c2fb83d46f1113fb67505ea30cd6794cc077428d3",
+      "runtime.py": "f257d7f4670b59baba59bfa4c10b7339ffcd0545db61b87e3be2df8b43d231d1",
+      "management.py": "cb50457e4963ab589daf36dcf50af33d2b367ed9a96bd28a9c19404594b6fe31"
+    }
+  }
+}
